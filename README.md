@@ -1,7 +1,7 @@
 # Data Science
 
 ### Education
-MSc Insudtrial Engineering
+MSc Industrial Engineering
 
 ### Work Experience
 
