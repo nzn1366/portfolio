@@ -9,12 +9,12 @@
 - Stochastic programming
 - Optimization modelling
 
-### Education
+## Education
 - MASc, Industrial Engineering (Operations Research) | Dalhousie University, Halifax, NS, Canada (_May 2018 - August 2020_)
 - MSc, Applied Mathematics (Operations Research) | Khaje Nasir Toosi University of Technology, Tehran, Iran (_September 2012 – July 2014_)
 
-### Work Experience
+## Work Experience
 
-### Projects
+## Projects
 
-### Publications
+## Publications
