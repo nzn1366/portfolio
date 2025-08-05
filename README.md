@@ -1,7 +1,7 @@
 # Data Science
 
-### Competences: 
-## Optimization and Operations Research:
+## Competences: 
+### Optimization and Operations Research:
 - Linear and non-linear convex optimization
 - Integer and mixed-integer programming
 - Robust optimization
@@ -10,8 +10,8 @@
 - Optimization modelling
 
 ### Education
-- M.A.Sc., Industrial Engineering (Operations Research) | Dalhousie University, Halifax, NS, Canada (_May 2018 - August 2020_)
-- M.Sc., Applied Mathematics (Operations Research) | Khaje Nasir Toosi University of Technology, Tehran, Iran (_September 2012 – July 2014_)
+- MASc, Industrial Engineering (Operations Research) | Dalhousie University, Halifax, NS, Canada (_May 2018 - August 2020_)
+- MSc, Applied Mathematics (Operations Research) | Khaje Nasir Toosi University of Technology, Tehran, Iran (_September 2012 – July 2014_)
 
 ### Work Experience
 
