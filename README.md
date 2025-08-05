@@ -1,4 +1,4 @@
-# Data Science
+# Data Scientist
 
 ## Competences: 
 ### Optimization and Operations Research:
